@@ -1,0 +1,6 @@
+"""initializing"""
+"" 
+git init 
+git add . 
+git commit - m "txt"
+git ""
